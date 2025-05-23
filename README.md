@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Welcome to my Github profile!
+
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning C and cloud computing
+- ⚡ Fun fact: the sum of distances between primes is odd
+
+
 <!--
 **alkemist-17/alkemist-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
