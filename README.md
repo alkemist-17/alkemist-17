@@ -3,8 +3,8 @@
 Welcome to my Github profile!
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning C and cloud computing
-- ⚡ Fun fact: the sum of distances between primes is odd
+- 🌱 I’m currently learning c and cloud computing
+- ⚡ Fun guess: the sum of distances between primes is always odd
 
 
 <!--
