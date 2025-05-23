@@ -4,7 +4,7 @@ Welcome to my Github profile!
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning cloud computing
-- ⚡ Fun guess: the sum of distances between primes is always odd
+
 
 
 <!--
