@@ -1,15 +1,25 @@
 ## Alkemist-17 ✨
 
-**Welcome, Codernaut!**
-
-*A place born of curiosity, tempered by grit—
+### **Welcome, Codernaut!**
+<br>
+A place born of curiosity, tempered by grit—
+<br>
 where every line of code is a step into the unknown,
-and every challenge is a star to navigate by.*
+<br>
+and every challenge is a star to navigate by.
 
-*Here, I leave my footprints in the digital sand:
+<br>
+<br>
+
+Here, I leave my footprints in the digital sand:
+<br>
 some fleeting, others carved deep—
+<br>
 each one a mark of the journey,
-a whisper of the systems yet to unfold.*
+<br>
+a whisper of the systems yet to unfold.
+
+<br>
 
 *May your coffee be infinite!*
 
